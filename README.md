@@ -1,4 +1,4 @@
 # hello-world
 Random
 Hello 
-I am kimcamp
+I am kimcamp, that is me
